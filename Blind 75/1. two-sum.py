@@ -12,4 +12,15 @@ class Solution:
             if answer_value in hash and i != hash[answer_value]:
                 return [i, hash[answer_value]]
         return [-1, -1]
+
+# same runtime, in less lines of code
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        seen = {}
+        for i, v in enumerate(nums):
+            remaining = target - v 
+            if remaining in seen:
+                return [seen[remaining], i]
+            seen[v] = i 
+        return []
             
