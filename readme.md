@@ -1,0 +1,98 @@
+Always watch youtube solution after doing leetcode problem (Neetcode)
+[(10) Blind 75 LeetCode Questions - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) Do easy's
+
+# Big O Notation
+MIT First vid
+##### Time and Space Complexity
+##### Amortised Analysis
+2 hours
+
+# Hashmap
+Watch MIT Lecture
+Watch Youtube video by hackerrank
+[TimeComplexity - Python Wiki](https://wiki.python.org/moin/TimeComplexity) Read section on dict
+Get familiar with basic operations [], .get(), in
+Go on Leetcode and do hashmap questions - [(10) Explore - LeetCode](https://leetcode.com/explore/learn/card/hash-table/) 
+2 hours
+
+# Arrays/Strings
+Watch CS Dojo array video
+Leetcode Explore
+10 hours
+
+# Two Pointer
+Watch youtube vid
+[Leetcode Patterns (seanprashad.com)](https://seanprashad.com/leetcode-patterns/) Do two pointer questions
+2 hours
+
+# Sliding Window
+Watch youtube vid
+[Leetcode Patterns (seanprashad.com)](https://seanprashad.com/leetcode-patterns/) Do two pointer questions
+2 hours
+
+# Sets
+Sets are internally hashmaps
+Optional: watch MIT lecture on sets
+[TimeComplexity - Python Wiki](https://wiki.python.org/moin/TimeComplexity) Read section on sets
+Get familiar with basic operations
+2 hours
+
+# Sorting
+Watch hackerrank video on sorting (watching quicksort is enough)
+Sorted vs .sort()
+30 minutes
+
+# Linked Lists
+### Singly
+[2. Data Structures and Dynamic Arrays - YouTube](https://www.youtube.com/watch?v=CHhwJjR0mZA&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&index=2&ab_channel=MITOpenCourseWare) 
+Educative - do upto remove duplicates
+Explore section on Leetcode only for singly linked
+15 hours
+
+### Circular
+Watch youtube video on it
+Do Leetcode Detect cycle
+1 hour
+
+### Doubly
+Watch youtube video on it
+20 minutes
+# Binary Search
+Watch hackerrank video
+Leetcode Explore
+Optional: Educative
+4 hours
+
+# Stacks and Queues
+Watch hackerrank video
+Do Educative
+[(10) How to effectively use LeetCode to prepare for interviews!! - LeetCode Discuss](https://leetcode.com/discuss/career/449135/how-to-effectively-use-leetcode-to-prepare-for-interviews)  Do every easy
+2 hours
+
+# Recursion
+Watch youtube video
+Leetcode explore (recursion 1)
+10 hours
+
+# Binary Trees
+Watch 2 MIT lectures
+Educative on binary trees and binary search trees
+Leetcode explore
+20 hours
+
+# Trees
+Watch hackerrank video
+[Tree Algorithms - YouTube](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDfGc8rbQ0_58oEZQVtvoIc) (First 2 vids)
+Watch vid on tree vs graph
+100 hours
+
+# Graphs
+Watch William Fiest graph theory playlist from start until BFS Shortest path
+Watch MIT lectures (Breadth-First search, Dijkstra)
+- DFS Very Important
+- BFS Very Important
+- Dijkstra Not Important
+- Bellman-Ford Not Important
+20 hours
+
+![[Pasted image 20220320203502.png]]
