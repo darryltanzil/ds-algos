@@ -105,7 +105,7 @@ def binarySearch(arr, 1, r, x):
 # Space Complexity
 * Primitives (Booleans, Numbers) take up constant space. `var x = 100` same memory as `var x = 200`
 * Arrays, Strings, Objects take up linear space. Array with 4 elements take twice the memory of array with two elements.
-* 
+
 ![image](https://user-images.githubusercontent.com/5387769/171231449-83334933-ea81-4589-9548-2fd7fd91966d.png)
 
 
