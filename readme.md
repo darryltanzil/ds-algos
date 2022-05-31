@@ -13,7 +13,8 @@ Always watch youtube solution after doing leetcode problem (Neetcode)
 - [X] My Code School - Big O Notation
 - [X] Research Online
 - Time and Space Complexity
-- Amortised Analysis
+- [X] Amortised Analysis https://www.youtube.com/watch?v=krO5LQNyGtM
+
 *2 hours*
 
 # Hashmap
