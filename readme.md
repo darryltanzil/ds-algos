@@ -10,7 +10,8 @@ Always watch youtube solution after doing leetcode problem (Neetcode)
 
 
 # Big O Notation
-- [ ] MIT First vid
+- [X] My Code School - Big O Notation
+- [X] Research Online
 - Time and Space Complexity
 - Amortised Analysis
 *2 hours*
