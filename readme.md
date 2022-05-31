@@ -19,9 +19,10 @@ Always watch youtube solution after doing leetcode problem (Neetcode)
 
 # Hashmap
 - [ ] Watch MIT Lecture
-- [ ] Watch Youtube video by hackerrank
+- [X] Watch Youtube video by hackerrank
 - [ ] [TimeComplexity - Python Wiki](https://wiki.python.org/moin/TimeComplexity) Read section on dict
-- [ ] Get familiar with basic operations [], .get(), in
+- [X] Get familiar with basic operations [], .get(), in
+- [X] Completed 2 sum problem using a one-pass hashmap
 - [ ] Go on Leetcode and do hashmap questions - [(10) Explore - LeetCode](https://leetcode.com/explore/learn/card/hash-table/) 
 *2 hours*
 
