@@ -2,6 +2,8 @@
 
 My Summer Study list for learning DS + Algos. Spend 30 minutes to an hour daily on this.
 
+Huge thanks to `Aghilan#0039` for creating this study plan!
+
 # Practicing
 Always watch youtube solution after doing leetcode problem (Neetcode)
 - [(10) Blind 75 LeetCode Questions - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) easy questions
