@@ -12,3 +12,9 @@ class Solution:
                 return True
             seen[v] = i
         return False
+
+This is a solution from the community, which is better then mine. It utilizes the python "set" function, and determines whether or not the length of nums
+is not equal to the length of the set nums, since the set nums does not contain any duplicates.
+class Solution(object):
+    def containsDuplicate(self, nums):
+        return len(nums) != len(set(nums))
