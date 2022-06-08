@@ -1,4 +1,6 @@
 ## Linked Lists
+Useful resources: 
+* https://www.freecodecamp.org/news/python-interview-question-guide-how-to-code-a-linked-list-fd77cbbd367d/
 
 ## Definition
 * An ordered collection of objects that **store references as part of their own elements**, as opposed to lists, which use contigous memory blocks to store references to their data
